@@ -5,8 +5,7 @@ import React from "react";
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import Navbar from './Components/Home/Navbar';
 import Inbox from './Components/Inbox/Inbox';
